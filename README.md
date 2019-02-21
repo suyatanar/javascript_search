@@ -1,1 +1,1 @@
-# javascript_search
+This is the JavaScript Search function.
